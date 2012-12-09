@@ -48,3 +48,11 @@ including PassiveTeX, JadeTeX, ConTeXt and Omega.
 %build
 
 %install
+
+
+%changelog
+* Wed Mar 07 2012 Paulo Andrade <pcpa@mandriva.com.br> 20120307-1
++ Revision: 783163
+- Import texlive-scheme-xml
+- Import texlive-scheme-xml
+
