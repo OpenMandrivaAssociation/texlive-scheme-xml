@@ -6,7 +6,7 @@
 # catalog-version undef
 Name:		texlive-scheme-xml
 Version:	20120307
-Release:	10
+Release:	11
 Summary:	XML scheme
 Group:		Publishing
 URL:		http://tug.org/texlive
