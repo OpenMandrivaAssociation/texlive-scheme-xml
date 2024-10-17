@@ -9,7 +9,7 @@ Version:	20120307
 Release:	11
 Summary:	XML scheme
 Group:		Publishing
-URL:		http://tug.org/texlive
+URL:		https://tug.org/texlive
 License:	http://www.tug.org/texlive/LICENSE.TL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/scheme-xml.tar.xz
 BuildArch:	noarch
